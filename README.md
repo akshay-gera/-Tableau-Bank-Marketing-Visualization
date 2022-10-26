@@ -1,5 +1,20 @@
 # Bank Marketing Dataset Visualization on Tableau
 
+## Introduction
+The data is related with direct marketing campaigns of a Portuguese banking institution. The bank is trying to market its product through tele-calling. 
+The product being marketed by the bank is their Term Deposit, which is our target variable containing 'yes' or ‘no’.
+Often, more than one contact to the same client was required, in order to access if the product (bank term deposit)
+Data Source: https://archive.ics.uci.edu/ml/datasets/bank+marketing
+
+## Buiness Objectives
+
+1) Exploring patterns and anomalies in the calling patterns, how distributed are the marketing efforts towards wide section of the customers
+
+2) We are interested in knowing how the marketing efforts are translating to results. Quantification of results through visuals would make the business aware of how the marketing efforts are resulting
+
+3) Suggest scope of improvements in the marketing campaigns based on the outcomes of the efforts. Make suggestions based on various attributes of the data available.
+
+
 #### Data Source: https://archive.ics.uci.edu/ml/datasets/bank+marketing
 
 #### Find fully interactive dashboard at: https://public.tableau.com/views/BankMarketingFinal/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
